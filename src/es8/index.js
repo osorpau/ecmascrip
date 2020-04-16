@@ -1,4 +1,4 @@
-//Object.entries --> claves y valores de una matriz, arreglo
+//Object.entries --> claves y valores de una matriz, arreglo , trainlling comma
 const data = {
     frontend: 'Oscar',
     backend: 'Isabel',
